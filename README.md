@@ -6,7 +6,7 @@ As I am not expecting many users to use this app at the same time, I have hardco
 
 ## Want a quick, AI-powered news summary? 📰  
 
-You can check out the app here 👉 **[News Summarizer](https://lnkd.in/dr7UtBkr)** (hosted on Streamlit).  
+You can check out the app here 👉 **[News Summarizer](https://news-summarize.streamlit.app/)** (hosted on Streamlit).  
 
 
 
